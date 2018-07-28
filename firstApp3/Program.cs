@@ -11,6 +11,7 @@ namespace firstApp3
         static void Main(string[] args)
         {
             Calculator.Add(2, 3);
+            Console.WriteLine("жопа");
          
         }
         class Calculator
